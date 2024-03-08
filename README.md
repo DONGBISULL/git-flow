@@ -1,3 +1,4 @@
 - dev branch
 
-- 로그인 브랜치 커밋
+- login 브랜치 커밋
+- logout 브랜치 커밋
